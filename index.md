@@ -4,3 +4,6 @@
 #### Flowers will start blossoming soon!
 
 alt-text ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+```
+var myVar = "Greetings, world!";
+```
